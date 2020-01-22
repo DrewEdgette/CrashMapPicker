@@ -1,7 +1,6 @@
 
 // map list
-var map_list = ["crash cove", "mystery caves", "sewer speedway", "roo's tubes", "slide coliseum", "turbo track", "coco park", "tiger temple", "papu's pyramid", "dingo canyon", "polar pass", "tiny arena", "dragon mines", "blizzard bluff", "hot air skyway", "cortex castle", "n. gin labs", "oxide station", "inferno island", "jungle boogie", "clockwork wumpa", "android alley", "electron avenue", "deep sea driving", "thunder struck", "tiny temple", "meteor gorge", "barin ruins", "out of time", "assembly lane", "hyper spaceway", "retro stadium", "twilight tour", "prehistoric playground"]
-
+var map_list = ["crash cove", "mystery caves", "sewer speedway", "roo's tubes", "slide coliseum", "turbo track", "coco park", "tiger temple", "papu's pyramid", "dingo canyon", "polar pass", "tiny arena", "dragon mines", "blizzard bluff", "hot air skyway", "cortex castle", "n. gin labs", "oxide station", "inferno island", "jungle boogie", "clockwork wumpa", "android alley", "electron avenue", "deep sea driving", "thunder struck", "tiny temple", "meteor gorge", "barin ruins", "out of time", "assembly lane", "hyper spaceway", "retro stadium", "twilight tour", "prehistoric playground", "spyro circuit", "nina's nightmare", "koala carnival", "gingerbread joyride", "megamix mania"]
 // creates a copy so elements can be deleted
 var copy_list = [];
 
