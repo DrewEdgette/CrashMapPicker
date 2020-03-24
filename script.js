@@ -1,3 +1,5 @@
+var map_list = [];
+
 function resetMaps()
 {
   map_list = [];
